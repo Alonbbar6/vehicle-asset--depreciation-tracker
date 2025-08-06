@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 def load_data():
     # 1. Load CSV
-    df = pd.read_csv('/Users/user/Desktop/zoilas_project/Snippet.csv', encoding='latin1')
+    df = pd.read_csv('Snippet.csv', encoding='latin1')
 
     # 2. Create connection string
     db_user = "root"

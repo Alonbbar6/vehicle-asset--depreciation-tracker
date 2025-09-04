@@ -21,8 +21,9 @@ It uses **theoretical (simulated) asset data** to demonstrate how businesses can
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Alonbbar6/zoilas_project.git
-cd zoilas_project
+git clone https://github.com/Alonbbar6/vehicle-asset--depreciation-tracker
+cd new_folder
+
 
 
 
